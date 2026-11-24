@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+pymongo[srv]
+dnspython
+matplotlib
+seaborn
+plotly
+ucimlrepo
